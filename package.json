@@ -1,0 +1,11 @@
+{
+  "name": "ygocarddb",
+  "version": "1.0.0",
+  "description": "Ygo personal card DB handler",
+  "main": "ygoCardManager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mic666",
+  "license": "MIT"
+}
