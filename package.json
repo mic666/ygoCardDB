@@ -3,9 +3,16 @@
   "version": "1.0.0",
   "description": "Ygo personal card DB handler",
   "main": "ygoCardManager.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "mic666",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "sqlite3": "^5.1.5"
+  },
   "license": "MIT"
 }
