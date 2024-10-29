@@ -10,9 +10,10 @@
   "author": "mic666",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.19.2",
+    "express": "4.21.1",
     "lodash": "^4.17.21",
-    "sqlite3": "^5.1.7"
+    "sqlite3": "^5.1.7",
+    "ygocarddb": "file:"
   },
   "license": "MIT"
 }
